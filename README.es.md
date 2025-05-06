@@ -1,5 +1,5 @@
 # 🛍️ Lista de la Compra Inteligente
-![Banner del proyecto](./src/styles/assets/banner.png)
+![Banner del proyecto](./banner.png)
 
 
 Este proyecto es una aplicación web desarrollada con **React** que permite crear y gestionar una lista de la compra, agrupando los productos por categorías como Frutas, Lácteos, Carnes, Limpieza, y más. Todos los datos se almacenan en una API externa mediante `fetch`.
