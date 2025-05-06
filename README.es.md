@@ -36,15 +36,14 @@ npm run dev
 
 
 ---
-
 ## 🧠 ¿Qué aprendí?
 
-### ✅ **Integración de APIs RESTful con `fetch`**
+### ✅ Integración de APIs RESTful con `fetch`
 
-### ✅ **Manejo de estado dinámico en React (`useState`, `useEffect`)**
+### ✅ Manejo de estado dinámico en React (`useState`, `useEffect`)
 
-### ✅ **Agrupación lógica por categorías con JavaScript**
+### ✅ Agrupación lógica por categorías con JavaScript
 
-### ✅ **Estilización avanzada con CSS animado**
+### ✅ Estilización avanzada con CSS animado
 
-### ✅ **Diseño responsive y experiencia de usuario mejorada**
+### ✅ Diseño responsive y experiencia de usuario mejorada
