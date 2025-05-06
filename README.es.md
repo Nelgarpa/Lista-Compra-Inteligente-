@@ -42,7 +42,7 @@ Todos los datos se sincronizan con una **API externa** mediante `fetch`, garanti
 
 ## 📬 Conectemos
 **¿Te interesa este proyecto o quieres dejar feedback?**
-## 🔗 [Visita mi perfil en LinkedIn](https://www.linkedin.com/in/nelgarpa)
+## 🔗 [Visita mi perfil en LinkedIn](https://www.linkedin.com/in/nelcy-garcia)
 
 ---
 
