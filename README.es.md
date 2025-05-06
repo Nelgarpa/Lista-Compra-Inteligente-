@@ -35,24 +35,16 @@ npm install
 npm run dev
 
 
+---
+
 ## 🧠 ¿Qué aprendí?
 
-**🔹 Integración de APIs RESTful con `fetch`.**
+### ✅ **Integración de APIs RESTful con `fetch`**
 
-**🔹 Manejo de estado dinámico con React (`useState`, `useEffect`).**
+### ✅ **Manejo de estado dinámico en React (`useState`, `useEffect`)**
 
-**🔹 Agrupación lógica por categorías usando programación.**
+### ✅ **Agrupación lógica por categorías con JavaScript**
 
-**🔹 Personalización visual avanzada con CSS y animaciones.**
+### ✅ **Estilización avanzada con CSS animado**
 
-**🔹 Mejora de experiencia de usuario en aplicaciones pequeñas.**
-Integrar una API RESTful externa utilizando fetch.
-
-Manejar el estado dinámico de la app con React.
-
-Organizar elementos por categorías usando lógica programática.
-
-Personalizar el diseño con animaciones y estilos creativos.
-
-Mejorar la experiencia de usuario en apps funcionales y visuales.
-
+### ✅ **Diseño responsive y experiencia de usuario mejorada**
