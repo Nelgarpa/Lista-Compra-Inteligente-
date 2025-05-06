@@ -34,7 +34,6 @@ git clone https://github.com/Nelgarpa/Lista-Compra-Inteligente.git
 npm install
 npm run dev
 
-
 ---
 
  ## 🧠 ¿ Qué Aprendí?
