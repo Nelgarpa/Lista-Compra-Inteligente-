@@ -2,45 +2,49 @@
 
 ![Banner del proyecto](./banner.png)
 
-Este proyecto es una aplicación web creada con **React** que permite añadir, visualizar y organizar productos en una lista de la compra. Cada producto se clasifica automáticamente en categorías como Frutas, Lácteos, Carnes, Limpieza, Bebidas y más. Todo se sincroniza con una API externa a través de `fetch`, lo que garantiza que los datos persistan entre sesiones.
+Este proyecto es una aplicación web desarrollada con **React** que permite añadir, visualizar y organizar productos en una lista de la compra. Cada producto se clasifica automáticamente por categoría (Frutas, Lácteos, Carnes, Limpieza, Bebidas y más).  
+Todos los datos se sincronizan con una **API externa** mediante `fetch`, garantizando persistencia entre sesiones.
 
 ---
 
 ## ✨ Funcionalidades
 
-- ✅ Añadir productos con su respectiva categoría.
-- 🍎 Agrupación automática por secciones (Frutas, Lácteos, Carnes...).
+- ✅ Añadir productos con su categoría correspondiente.
+- 🍎 Agrupación automática por secciones visuales.
 - 🔄 Sincronización con API externa vía `fetch`.
-- ❌ Eliminar productos individuales o toda la lista.
-- 📱 Diseño visual creativo y adaptado a móviles.
+- ❌ Eliminar productos individualmente o limpiar toda la lista.
+- 📱 Interfaz visual creativa y responsiva.
 
 ---
 
-## 🧰  Tecnologías usadas 
+## 💻 Tecnologías usadas
 
-- ⚛️ React JS (con hooks `useState` y `useEffect`)
-- 🎨 CSS personalizado con animaciones suaves
+- ⚛️ React JS (`useState`, `useEffect`)
+- 🎨 CSS personalizado con animaciones
 - 🌐 Fetch API
-- 📦 Vite para entorno de desarrollo
+- 📦 Vite como entorno de desarrollo
 
 ---
 
-## 🚀  Cómo ejecutarlo localmente
+## 🧠 ¿Qué aprendí?
 
-1. **Clona el repositorio:**
-
-```bash
-git clone https://github.com/Nelgarpa/Lista-Compra-Inteligente.git
-npm install
-npm run dev
+- 🔹 **Integración de APIs RESTful usando `fetch`**
+- 🔹 **Manejo de estado dinámico con React (`useState`, `useEffect`)**
+- 🔹 **Agrupación lógica de productos por categoría**
+- 🔹 **Estilización avanzada con CSS animado y diseño responsivo**
+- 🔹 **Enfoque en la experiencia de usuario (UX/UI)**
 
 ---
 
- ## 🧠 ¿ Qué Aprendí?
+## 🧠  Demo en vivo
+🟢 [Ver la aplicación desplegada en Vercel](https://lista-compra-inteligente.vercel.app)
 
- ✅ Integración de APIs RESTful con fetch
- ✅ Manejo de estado dinámico con React
- ✅ Agrupación lógica por categorías
- ✅ Estilización avanzada con CSS animado
- ✅ Diseño responsive y mejor experiencia de usuario
 
+## 📬 Conectemos
+**¿Te interesa este proyecto o quieres dejar feedback?**
+## 🔗 [Visita mi perfil en LinkedIn](https://www.linkedin.com/in/nelgarpa)
+
+---
+
+## 🏷️ Etiquetas
+#React #Frontend #FetchAPI #ListaCompra #UXUI #BootcampProject
