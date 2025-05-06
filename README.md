@@ -1,39 +1,56 @@
-# Hello World with React boilerplate
+# 🛍️ Smart Shopping List
 
-Start coding a react application
+![Project Banner](./banner.png)
 
-> If you are working locally instead of using codespaces or gitpod, please follow [local installation steps](#local-installation-skip-if-you-are-working-on-codespaces-or-gitpod) and come back to this part of the readme.
+This project is a web application built with **React** that allows users to add, view, and organize products in a shopping list.  
+Each item is automatically categorized (Fruits, Dairy, Meat, Cleaning, Beverages, and more).  
+All data is synced with an **external API** using `fetch`, ensuring persistence between sessions.
 
-## How to start coding?
+---
 
-- Install the packages with `$ npm install`.
-- Run the webpack server with `$ npm run start`
+## ✨ Features
 
-You can update the `styles/index.css` or `js/index.js` depending on your needs.
-Add more files into your, `./src/js/components` or styles folder as you need them.
+- ✅ Add items with their corresponding category
+- 🍎 Automatic grouping by visual sections
+- 🔄 Sync with external API via `fetch`
+- ❌ Delete individual items or clear the entire list
+- 📱 Creative and responsive user interface
 
-## Local Installation (skip if you are working on codespaces or gitpod)
+---
 
-Download the boilerplate using git
+## 💻 Technologies Used
 
-```
-$ git clone https://github.com/4GeeksAcademy/react-hello.git
-$ cd react-hello
-```
+- ⚛️ React JS (`useState`, `useEffect`)
+- 🌐 Fetch API
+- 🎨 Custom CSS with smooth animations
+- 📦 Vite (development environment)
+- 🧠 Git + GitHub for version control
 
-## Publish your website!
+---
 
-This boilerplate is 100% compatible with the free [github pages](https://pages.github.com/) and [vercel](https://vercel.com/) hosting.
+## 🧠 What I Learned
 
-It takes just 2 minutes to deploy, [click here to start the process](https://4geeks.com/docs/start/deploy-to-render-com).
+- 🔹 **Integration of RESTful APIs using `fetch`**
+- 🔹 **Dynamic state management in React (`useState`, `useEffect`)**
+- 🔹 **Logical grouping of products by category**
+- 🔹 **Advanced styling with animated and responsive CSS**
+- 🔹 **User experience (UX/UI)–focused design**
 
-## Other features
+---
 
-- Automatic Code Formatting: Use of [Prettier](https://prettier.io/) for automatic code indentation and formatting.
-- Error reporting: Use of [eslint](https://eslint.org/) for better error reporting.
+## 🌐 Live Demo
 
-### Contributors
+🟢 [Check out the live app on Vercel](https://lista-compra-inteligente.vercel.app)
 
-This template was built as part of the 4Geeks Academy [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) by [Alejandro Sanchez](https://twitter.com/alesanchezr) and many other contributors. Find out more about our [Full Stack Developer Course](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer), and [Data Science Bootcamp](https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning).
+---
 
-You can find other templates and resources like this at the [school github page](https://github.com/4geeksacademy/).
+## 📬 Let’s Connect
+
+**Interested in this project or want to share feedback?**  
+🔗 [Visit my LinkedIn profile](https://www.linkedin.com/in/nelcy-garcia)
+
+---
+
+## 🏷️ Tags
+
+#React #Frontend #FetchAPI #ShoppingList #UXUI #BootcampProject
