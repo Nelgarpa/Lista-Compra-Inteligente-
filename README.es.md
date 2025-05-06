@@ -2,27 +2,29 @@
 
 ![Banner del proyecto](./banner.png)
 
-Este proyecto es una aplicación web desarrollada con **React** que permite añadir, visualizar y organizar productos en una lista de la compra. Cada producto se clasifica automáticamente por categoría (Frutas, Lácteos, Carnes, Limpieza, Bebidas y más).  
-Todos los datos se sincronizan con una **API externa** mediante `fetch`, garantizando persistencia entre sesiones.
+Este proyecto es una aplicación web desarrollada con **React** que permite añadir, visualizar y organizar productos en una lista de la compra.  
+Cada producto se clasifica automáticamente por categoría (Frutas, Lácteos, Carnes, Limpieza, Bebidas y más).  
+Todos los datos se sincronizan con una **API externa** mediante `fetch`, lo que garantiza persistencia entre sesiones.
 
 ---
 
 ## ✨ Funcionalidades
 
-- ✅ Añadir productos con su categoría correspondiente.
-- 🍎 Agrupación automática por secciones visuales.
-- 🔄 Sincronización con API externa vía `fetch`.
-- ❌ Eliminar productos individualmente o limpiar toda la lista.
-- 📱 Interfaz visual creativa y responsiva.
+- ✅ Añadir productos con su categoría correspondiente
+- 🍎 Agrupación automática por secciones visuales
+- 🔄 Sincronización con API externa vía `fetch`
+- ❌ Eliminar productos individualmente o limpiar toda la lista
+- 📱 Interfaz visual creativa y responsive
 
 ---
 
 ## 💻 Tecnologías usadas
 
 - ⚛️ React JS (`useState`, `useEffect`)
-- 🎨 CSS personalizado con animaciones
 - 🌐 Fetch API
-- 📦 Vite como entorno de desarrollo
+- 🎨 CSS personalizado con animaciones suaves
+- 📦 Vite (entorno de desarrollo)
+- 🧠 Git + GitHub para control de versiones
 
 ---
 
