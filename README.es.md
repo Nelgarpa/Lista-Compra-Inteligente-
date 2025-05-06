@@ -1,50 +1,58 @@
 # 🛍️ Lista de la Compra Inteligente
+
 ![Banner del proyecto](./banner.png)
 
-
-Este proyecto es una aplicación web desarrollada con **React** que permite crear y gestionar una lista de la compra, agrupando los productos por categorías como Frutas, Lácteos, Carnes, Limpieza, y más. Todos los datos se almacenan en una API externa mediante `fetch`.
+Este proyecto es una aplicación web creada con **React** que permite añadir, visualizar y organizar productos en una lista de la compra. Cada producto se clasifica automáticamente en categorías como Frutas, Lácteos, Carnes, Limpieza, Bebidas y más. Todo se sincroniza con una API externa a través de `fetch`, lo que garantiza que los datos persistan entre sesiones.
 
 ---
 
 ## ✨ Funcionalidades
 
-- ✅ Añadir productos con categoría.
-- 🍎 Agrupación por secciones con íconos (Frutas, Lácteos, etc).
-- 🔄 Persistencia de datos vía API externa con `fetch`.
-- 🧼 Eliminar productos uno por uno o toda la lista.
-- 📱 Diseño atractivo, moderno y adaptado para móviles.
+- ✅ Añadir productos con su respectiva categoría.
+- 🍎 Agrupación automática por secciones (Frutas, Lácteos, Carnes...).
+- 🔄 Sincronización con API externa vía `fetch`.
+- ❌ Eliminar productos individuales o toda la lista.
+- 📱 Diseño visual creativo y adaptado a móviles.
 
 ---
 
-## 💻 Tecnologías
+## 🧰  Tecnologías usadas 
 
-- React JS
-- CSS personalizado con animaciones suaves
-- Fetch API
-- HTML5 + UX/UI
+- ⚛️ React JS (con hooks `useState` y `useEffect`)
+- 🎨 CSS personalizado con animaciones suaves
+- 🌐 Fetch API
+- 📦 Vite para entorno de desarrollo
 
 ---
 
-## 🚀 Cómo usarlo localmente
+## 🚀  Cómo ejecutarlo localmente
 
-1. Clona el repositorio:
+1. **Clona el repositorio:**
+
 ```bash
-git clone https://github.com/tuusuario/lista-compra-inteligente.git
-
-
-2. Instala dependencias
+git clone https://github.com/Nelgarpa/Lista-Compra-Inteligente.git
 npm install
-
-3. bash
 npm run dev
 
-🤓 ¿Qué aprendí?
-Integrar APIs RESTful con fetch.
 
-Manejo de estado dinámico en React.
+## 🧠 ¿Qué aprendí?
 
-Organización lógica de categorías.
+**🔹 Integración de APIs RESTful con `fetch`.**
 
-Estilización avanzada y componentes visuales por categoría.
+**🔹 Manejo de estado dinámico con React (`useState`, `useEffect`).**
 
-Mejorar la experiencia de usuario en apps pequeñas.
+**🔹 Agrupación lógica por categorías usando programación.**
+
+**🔹 Personalización visual avanzada con CSS y animaciones.**
+
+**🔹 Mejora de experiencia de usuario en aplicaciones pequeñas.**
+Integrar una API RESTful externa utilizando fetch.
+
+Manejar el estado dinámico de la app con React.
+
+Organizar elementos por categorías usando lógica programática.
+
+Personalizar el diseño con animaciones y estilos creativos.
+
+Mejorar la experiencia de usuario en apps funcionales y visuales.
+
